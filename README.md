@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Backend | Python | FastAPI
+Sou um desenvolvedor backend e meu foco principal está em criar soluções eficientes e escaláveis utilizando Python e o poderoso framework FastAPI. Tenho buscado constantemente aprender e aprimorar minhas habilidades em Python, uma linguagem versátil e poderosa para criar aplicativos e serviços.
 
 
 ## 🌐 Socials:
