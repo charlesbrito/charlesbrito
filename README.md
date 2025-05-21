@@ -8,7 +8,7 @@ Sou um desenvolvedor backend e meu foco principal está em criar soluções efic
 # 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/) [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=charlesbrito&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![]([https://github-readme-stats.vercel.app/api?username=charlesbrito&theme=dark&hide_border=true&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=charlesbrito&theme=dark&show_icons=true&hide_border=true&count_private=true))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charlesbrito&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
