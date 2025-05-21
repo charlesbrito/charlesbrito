@@ -1,18 +1,16 @@
-# 💫 About Me:
-Sou um desenvolvedor backend e meu foco principal está em criar soluções eficientes e escaláveis utilizando Python e o poderoso framework FastAPI. Tenho buscado constantemente aprender e aprimorar minhas habilidades em Python, uma linguagem versátil e poderosa para criar aplicativos e serviços.
+<h1 align="center">Olá 👋, sou Charles Magno</h1>
+<h3 align="center">Sou um desenvolvedor backend e meu foco principal está em criar soluções eficientes e escaláveis ​​utilizando Python e o poderoso framework FastAPI. Tenho buscado constantemente aprender e aprimorar minhas habilidades em Python, uma linguagem versátil e poderosa para criar aplicativos e
 
+serviços
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cmagnosb)
+. eu:</h3>
+<p align="left">
+</p>
 
-# 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/) [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-# 📊 GitHub Stats:
-![]([https://github-readme-stats.vercel.app/api?username=charlesbrito&theme=dark&hide_border=true&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=charlesbrito&theme=dark&show_icons=true&hide_border=true&count_private=true))<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=charlesbrito&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" largura="40" altura="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" largura="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=charlesbrito&icon=0&color=0)](https://visitcount.itsvg.in)
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesbrito&show_icons=true&locale=en" alt="charlesbrito" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesbrito&" alt="charlesbrito" /></p>
+
